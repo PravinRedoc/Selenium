@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suitedd">
+  <test name="Testddd">
+  <parameter name="nodeURL" value="http://192.168.100.22:5555/wd/hub"</parameter>
+    <parameter name="browser" value="chrome"></parameter>
+  
+    <classes>
+            <class name="testNg.grid"/>
+    </classes>
+  </test> <!-- Testddd -->
+  
+  <test name="Testddd1">
+  <parameter name="nodeURL" value="http://192.168.100.108:5555/wd/hub"></parameter>
+    <parameter name="browser" value="firefox"></parameter>
+  
+    <classes>
+      <class name="testNg.grid"/>
+    </classes>
+</suite> <!-- Suitedd -->
+
+
+

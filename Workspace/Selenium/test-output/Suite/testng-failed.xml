@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test0000">
+    <classes>
+      <class name="testNg.amazon"/>
+      <class name="testNg.lti_maps"/>
+      <class name="testNg.selenium_page"/>
+    </classes>
+  </test> <!-- Test0000 -->
+  <test name="Test0001">
+    <classes>
+      <class name="testNg.selenium_page"/>
+      <class name="testNg.cross"/>
+    </classes>
+  </test> <!-- Test0001 -->
+</suite> <!-- Failed suite [Suite] -->

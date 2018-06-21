@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34800" started-at="2017-11-23T23:31:47Z" finished-at="2017-11-23T23:32:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34800" started-at="2017-11-23T23:31:47Z" finished-at="2017-11-23T23:32:22Z">
+      <class name="testNg.lti_maps">
+        <test-method status="PASS" signature="bfmed()[pri:0, instance:testNg.lti_maps@59e84876]" name="bfmed" is-config="true" duration-ms="7632" started-at="2017-11-24T05:01:47Z" finished-at="2017-11-24T05:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmed -->
+        <test-method status="PASS" signature="bfclss()[pri:0, instance:testNg.lti_maps@59e84876]" name="bfclss" is-config="true" duration-ms="0" started-at="2017-11-24T05:01:47Z" finished-at="2017-11-24T05:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfclss -->
+        <test-method status="PASS" signature="cde()[pri:0, instance:testNg.lti_maps@59e84876]" name="cde" duration-ms="26279" started-at="2017-11-24T05:01:55Z" finished-at="2017-11-24T05:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cde -->
+        <test-method status="PASS" signature="aftmed()[pri:0, instance:testNg.lti_maps@59e84876]" name="aftmed" is-config="true" duration-ms="139" started-at="2017-11-24T05:02:21Z" finished-at="2017-11-24T05:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmed -->
+        <test-method status="PASS" signature="aftclss()[pri:0, instance:testNg.lti_maps@59e84876]" name="aftclss" is-config="true" duration-ms="732" started-at="2017-11-24T05:02:21Z" finished-at="2017-11-24T05:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftclss -->
+      </class> <!-- testNg.lti_maps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
